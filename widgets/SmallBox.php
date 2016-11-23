@@ -31,7 +31,7 @@ class SmallBox extends Widget
     /**
      * @var string link label
      */
-    public $linkLabel = 'More info <i class="fa fa-arrow-circle-right"></i>';
+    public $linkLabel = 'More info <i class="arrow-circle-right"></i>';
 
     /**
      * @var string|array link route
